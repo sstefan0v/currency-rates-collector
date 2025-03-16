@@ -1,9 +1,9 @@
 package com.sstefanov.currency.rates.collector.service;
 
 import com.sstefanov.currency.rates.collector.dto.CurrencyRatesDTO;
-import com.sstefanov.currency.rates.collector.entities.CurrencyRate;
-import com.sstefanov.currency.rates.collector.entities.CurrencyRateId;
-import com.sstefanov.currency.rates.collector.repositories.CurrencyRateRepository;
+import com.sstefanov.currency.rates.collector.entity.CurrencyRate;
+import com.sstefanov.currency.rates.collector.entity.CurrencyRateId;
+import com.sstefanov.currency.rates.collector.repository.CurrencyRateRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.EnableScheduling;

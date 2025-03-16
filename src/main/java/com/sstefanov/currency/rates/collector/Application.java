@@ -1,6 +1,6 @@
 package com.sstefanov.currency.rates.collector;
 
-import com.sstefanov.currency.rates.collector.configs.Props;
+import com.sstefanov.currency.rates.collector.config.Props;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

@@ -1,4 +1,4 @@
-package com.sstefanov.currency.rates.collector.configs;
+package com.sstefanov.currency.rates.collector.config;
 
 import lombok.Getter;
 import lombok.Setter;

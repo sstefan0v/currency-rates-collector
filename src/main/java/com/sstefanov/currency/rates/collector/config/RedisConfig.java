@@ -1,4 +1,4 @@
-package com.sstefanov.currency.rates.collector.configs;
+package com.sstefanov.currency.rates.collector.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

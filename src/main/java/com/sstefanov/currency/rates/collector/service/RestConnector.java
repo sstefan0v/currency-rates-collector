@@ -1,6 +1,6 @@
 package com.sstefanov.currency.rates.collector.service;
 
-import com.sstefanov.currency.rates.collector.configs.Props;
+import com.sstefanov.currency.rates.collector.config.Props;
 import com.sstefanov.currency.rates.collector.dto.CurrencyRatesDTO;
 
 import lombok.extern.slf4j.Slf4j;
